@@ -9,11 +9,11 @@ function App() {
     <>
       <Navbar />
       <div className="cardclass">
-        <Card title="Amazon" description="this is description" src="image/amazon.png" />
+        <Card title="Amazon" description="this is description" src="https://images.pexels.com/photos/756789/pexels-photo-756789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
         <Card title="amazon_logo" description="this is description" src="image/amazon_logo.png" />
-        <Card title="box1_image" description="this is description" src="image/box1_image.jpg" />
+        <Card title="box1_image" description="this is description" src="https://images.pexels.com/photos/756789/pexels-photo-756789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
         <Card title="box2_image" description="this is description" src="image/box2_image.jpg" />
-        <Card title="box3_image" description="this is description" src="image/box3_image.jpg" />
+        <Card title="box3_image" description="this is description" src="https://images.pexels.com/photos/756789/pexels-photo-756789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
         <Card title="hero_image" description="this is description" src="image/hero_image.jpg" />
         <Card title="box4_image" description="this is description" src="image/box4_image.jpg" />
         <Card title="box5_image" description="this is description" src="image/box5_image.jpg" />
