@@ -14,7 +14,7 @@ function App() {
         <Card title="box1_image" description="this is description" src="https://images.pexels.com/photos/756789/pexels-photo-756789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
         <Card title="box2_image" description="this is description" src="image/box2_image.jpg" />
         <Card title="box3_image" description="this is description" src="https://images.pexels.com/photos/756789/pexels-photo-756789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
-        <Card title="hero_image" description="this is description" src="image/hero_image.jpg" />
+        <Card title="hero_image" description="this is description" src="../image/hero_image.jpg" />
         <Card title="box4_image" description="this is description" src="image/box4_image.jpg" />
         <Card title="box5_image" description="this is description" src="image/box5_image.jpg" />
         <Card title="box6_image" description="this is description" src="image/box6_image.jpg" />
