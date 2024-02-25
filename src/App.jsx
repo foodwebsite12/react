@@ -19,7 +19,7 @@ function App() {
         <Card title="box5_image" description="this is description" src="image/box5_image.jpg" />
         <Card title="box6_image" description="this is description" src="image/box6_image.jpg" />
         <Card title="box7_image" description="this is description" src="image/box7_image.jpg" />
-        <Card title="box8_image" description="this is description" src="image/box8_image.jpg" />
+        <Card title="box8_image" description="this is description" src="box8_image.jpg" />
         <Card title="bulkfood" description="this is description" src="image/bulkfood.jpg" />
         <Card title="car1" description="this is description" src="image/car1.jpg" />
         <Card title="car2" description="this is description" src="image/car2.jpg" />
